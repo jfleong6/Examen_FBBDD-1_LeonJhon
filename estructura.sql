@@ -1,5 +1,5 @@
 CREATE DATABASE gestion_inventario;
-CREATE DATABASE gestion_inventario;
+USE DATABASE gestion_inventario;
 
 CREATE TABLE IF NOT EXISTS Clientes (
     id INTEGER,
